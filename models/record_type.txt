@@ -1,0 +1,13 @@
+Electricity,
+water,
+gas,
+garbage,
+rent,
+insurence,
+contributions,
+television+radio,
+internet,
+equipment,
+Fun,
+services,
+others
